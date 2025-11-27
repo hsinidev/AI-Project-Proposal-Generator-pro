@@ -2,7 +2,7 @@
 
 > **Powered by Google Gemini AI & Developed by HSINI MOHAMED**
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Build.doodax.com-blue?style=for-the-badge)](https://build.doodax.com/)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-doodax.com-blue?style=for-the-badge)](https://doodax.com/tools/proposal-generator/index.html)
 
 An enterprise-grade, SEO-optimized web application that instantly drafts structured, persuasive project proposals. By leveraging the advanced capabilities of the **Gemini 2.5 Flash** model, this tool transforms basic project goals into professional documentation in seconds.
 
